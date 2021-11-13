@@ -37,3 +37,9 @@ body {
 .country-info_text {
   font-weight: bold;
 }
+
+input::placeholder {
+  font-size: 0.2;
+  font-weight: 14px;
+  font-style: italic;
+}
